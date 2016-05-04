@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fancyschmancy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fancyschmancy_jar</output-path>
+    <root id="archive" name="fancyschmancy.jar">
+      <element id="module-output" name="fancyschmancy" />
+    </root>
+  </artifact>
+</component>
